@@ -1,4 +1,8 @@
 
+
+https://github.com/user-attachments/assets/8b1f452f-9e7b-4a15-92b8-c96245e1fac4
+
+
 AMAZON -CLONE
 Overview:
 This project is a simple clone of the Amazon homepage, designed to demonstrate basic HTML, CSS, and JavaScript skills. It includes a navigation bar, a header slider, product categories, and various product sliders to mimic a real e-commerce site.
