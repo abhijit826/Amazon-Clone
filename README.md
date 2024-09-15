@@ -1,5 +1,5 @@
-Amazon Clone
-Overview
+AMAZON -CLONE
+Overview:
 This project is a simple clone of the Amazon homepage, designed to demonstrate basic HTML, CSS, and JavaScript skills. It includes a navigation bar, a header slider, product categories, and various product sliders to mimic a real e-commerce site.
 
 Features
@@ -7,16 +7,19 @@ Header Slider: A slideshow of promotional images with navigation controls.
 Product Sliders: Horizontally scrollable product carousels for different categories.
 Responsive Design: Adapted to different screen sizes using media queries.
 Interactive Elements: JavaScript-powered image slider and horizontal scrolling.
-Technologies Used
+
+Technologies Used:
 HTML5
 CSS3
 JavaScript
 Google Fonts (Honk, Outfit, Poppins)
+
 File Structure
 index.html: The main HTML file.
 style.css: The CSS file containing styles for the page.
 script.js: The JavaScript file for handling interactive elements.
 assets/: Directory containing all image assets used in the project.
+
 Getting Started
 Clone the Repository
 git clone :https://github.com/abhijit826/Amazon-Clone
